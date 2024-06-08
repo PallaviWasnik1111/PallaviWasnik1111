@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pallavi Wasnik</h1>
 <h3 align="center">A passionate developer from India</h3>
-
-
-git remote add origin https://github.com/PallaviWasnik1111/car_rental.git
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pallaviwasnik1111" alt="pallaviwasnik1111" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallaviwasnik1111&label=Profile%20views&color=0e75b6&style=flat" alt="pallaviwasnik1111" /> </p>
-
 
 
 - 🔭 I’m currently working on **currency converter**
